@@ -1,0 +1,13 @@
+.name {
+    display: flex;
+    height: 75px;
+    padding-left: 20px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+
+    border: 1px solid gray;
+
+    align-items: center;
+}

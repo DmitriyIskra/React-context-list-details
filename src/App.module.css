@@ -1,0 +1,25 @@
+.App {
+  display: flex;
+}
+
+.loading {
+  width: 100%;
+
+  text-align: center;
+}
+
+.details-loading {
+  display: flex;
+  width: 300px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.details-error {
+  display: flex;
+  width: 300px;
+
+  align-items: center;
+  justify-content: center;
+}

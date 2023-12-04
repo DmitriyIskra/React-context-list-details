@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    height: 56px;
+    width: 100%;
+
+    border: 1px solid grey;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.item:hover {
+    background: rgb(26, 39, 226);
+    color: white;
+    cursor: pointer;
+}
